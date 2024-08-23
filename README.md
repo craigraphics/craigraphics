@@ -1,27 +1,27 @@
-## William Craig
-### Senior Software Engineer Lv. II - Front-End / Full-Stack
+# Hey there, I'm William Craig! 👋
 
-### Summary
-Senior Software Engineer with 15+ years of experience leading high-traffic, high performance web projects for top brands like Autodesk, General Motors, Frontier and Coca-Cola. Proven ability to deliver exceptional user experiences, optimize performance, and implement innovative technical solutions.
-Experienced in front-end development with strong full-stack expertise and a solid understanding of back-end and cloud architectures. Fluent in both English and Spanish.
+## Senior Software Engineer with a passion for creating amazing web experiences 🚀
 
-### Skills
-- JavaScript | TypeScript | React | Redux | HTML | CSS | Tailwind | MUI | Angular | Vue | React Native
-- Next | NodeJS | GraphQL | REST API | Firebase | OOP | NoSQL | Microservices
-- Full-Stack | Front-end | System Design | Performance | Webpack | SEO | UX Design | Figma
-- CI/CD | Jenkins | Docker | Cypress | Jest | Git | Agile | Micro Frontend
+### About Me
+I'm a code enthusiast with 15+ years of turning coffee into high-performance web applications. I don't have superpowers, but I love creating smooth user experiences like water. I've had the privilege of working with some pretty cool brands like Autodesk, General Motors, Frontier, Carnival Cruise, Telmex, Presidency of Mexico and Coca-Cola.
 
-<!--
-**craigraphics/craigraphics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I Do
+- 💻 Full-stack with a focus on Front-end
+- 🎨 Turn designer and product ideas into fully functional applications with a big eye on design
+- 🚀 Make fast performant websites with heavy traffic
+- 🧠 Solve complex problems and lead small teams
 
-Here are some ideas to get you started:
+### My Toolbox
+- 🔧 JavaScript, TypeScript, React, Redux, HTML, CSS, Tailwind, MUI, Angular, Vue, React Native
+- 🛠️ Next.js, Node.js, GraphQL, REST APIs, Firebase, OOP, NoSQL, Microservices
+- 🎭 Full-Stack, Front-end, System Design, Performance, Webpack, SEO, UX Design, Figma
+- 🚂 CI/CD, Jenkins, Docker, Cypress, Jest, Git, Agile, Micro Frontend
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Fun Facts
+- 🌎 Fluent in English, Spanish, and JavaScript
+- ☕ Powered by code, coffee and music
+- 🎵 Debugging soundtrack: Ambient music and John Coltrane
+- 🏋️‍♂️ When not coding, you'll find me playing table tennis
+
+### Let's Connect!
+[linkedin/willcraigz](https://www.linkedin.com/in/willcraigz/)
